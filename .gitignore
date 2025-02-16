@@ -1,0 +1,30 @@
+# Virtual environment directories
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# MacOS system files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Compiled files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Txt files
+.txt
