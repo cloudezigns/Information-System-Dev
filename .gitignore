@@ -19,12 +19,6 @@ __pycache__/
 .vscode/
 .idea/
 
-# Compiled files
-*.so
-*.egg
-*.egg-info/
-dist/
-build/
-
-# Txt files
+# Txt
 .txt
+
